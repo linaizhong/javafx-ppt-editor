@@ -109,7 +109,7 @@ mvn javafx:run
 ```bash
 java --module-path /path/to/javafx-sdk/lib \
      --add-modules javafx.controls,javafx.fxml \
-     -jar simple-slide-editor.jar
+     -jar javafx-ppt-editor.jar
 ```
 
 The application window opens at 1280 × 800 px with a minimum size of 1024 × 768 px.
